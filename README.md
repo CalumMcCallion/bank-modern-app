@@ -17,7 +17,7 @@ This is a business landing page built with React. It features a modern and styli
 
 ### Usage
 
-1. Clone the repository: `git clone [repository URL]`
+1. Clone the repository: `git clone [https://github.com/CalumMcCallion/bank-modern-app.git]`
 2. Install dependencies: `npm install`
 3. Run the application: `npm start`
 4. Access the application in your browser at `http://localhost:3000`
